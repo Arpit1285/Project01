@@ -19,8 +19,6 @@ This project is based on a simple yet functional GUI-based calculator built usin
 - `clear()` : Clears the entire input.
 - `calculate()` : Evaluates the expression and shows result; handles errors.
 - `percent()` : Divides the number by 100.
-- `square_root()` : Computes square root of input.
-- `square()` : Squares the input value.
 - `backspace()` : Deletes the last digit/symbol.
 - `double_zero()` : Appends 00 to the current input.
 
@@ -35,8 +33,6 @@ This project is based on a simple yet functional GUI-based calculator built usin
 | `AC`            | Clears the entry field completely       |
 | `%`             | Converts input into a percentage        |
 | `⌫`             | Removes the last character (backspace)  |
-| `√` (function)  | Square root using `math.sqrt()`         |
-| `x²` (function) | Squares the input (x\*\*2)              |
 
 ### 🎨 UI Design
 - Uses grid layout to arrange buttons.
