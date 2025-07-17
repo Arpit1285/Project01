@@ -48,7 +48,7 @@ This project is based on a simple yet functional GUI-based calculator built usin
 
 - I chose Python's `tkinter` library to create a clean and lightweight GUI without external dependencies.
 - The button layout replicates the look and flow of a traditional calculator to enhance usability.
-- I included additional functionality like square, square root, percentage, and backspace to go beyond basic operations.
+- I included additional functionality like percentage, and backspace to go beyond basic operations.
 - Error handling (e.g., division by zero or invalid input) was implemented to improve robustness.
 - Button colors were selected to visually distinguish between functions (e.g., red for clear, blue for equals).
 
